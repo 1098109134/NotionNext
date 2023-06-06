@@ -3,10 +3,10 @@
 #theme-fukasawa .sideLeft hr{
     opacity: .04;
 }
-.md:w-5/12{
+.h-56{
     border-radius:.75rem
 }
-.md:w-5/12:hover{
+.h-56{
     cursor:pointer;
 }
 .notion-collection-card{
