@@ -3,6 +3,12 @@
 #theme-fukasawa .sideLeft hr{
     opacity: .04;
 }
-.h-56{
-    border-radius:.75erm;
+.md:w-5/12{
+    border-radius:.75rem
+}
+.md:w-5/12:hover{
+    cursor:pointer;
+}
+.notion-collection-card{
+    border-radius:8px;
 }
