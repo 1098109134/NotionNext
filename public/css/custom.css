@@ -6,6 +6,9 @@
 dark:hover:text-indigo-400{
     color:#FDB700;
 }
+hover:text-indigo-700{
+    color:#FDB700;
+}
 .notion-collection-card{
     border-radius:8px;
 }
