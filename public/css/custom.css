@@ -48,6 +48,8 @@
     content: '可以通过昵称访问您的网站🔗';
 }
 
+.tk-meta-input :nth-child(3) { display:none; }
+
 
 /* 主内容区 */
 .el-input.el-input--small.el-input-group.el-input-group--prepend::before {
