@@ -21,6 +21,14 @@
 .hover\:bg-indigo-300:hover{
     background-color: rgb(253 183 0/var(--tw-bg-opacity));
 }
+
+#blog-post-card{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+#blog-post-card:hover{
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+}
+
 .notion-collection-card{
     border-radius:8px;
 }
