@@ -4,7 +4,10 @@
     opacity: .04;
 }
 .hover\:text-indigo-700:hover{
-    color:#FDB700;
+    color: rgb(253 183 0/var(--tw-text-opacity));
+}
+.hover\:text-indigo-600:hover {
+    color: rgb(253 183 0/var(--tw-text-opacity));
 }
 .notion-collection-card{
     border-radius:8px;
