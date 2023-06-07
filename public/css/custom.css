@@ -3,6 +3,9 @@
 #theme-fukasawa .sideLeft hr{
     opacity: .04;
 }
+.object-cover{
+    border-radius:.75rem;
+}
 .text-indigo-400{
     color: rgb(255 255 153/var(--tw-text-opacity));
 }
