@@ -9,6 +9,9 @@
 .hover\:text-indigo-600:hover {
     color: rgb(253 183 0/var(--tw-text-opacity));
 }
+.bg-indigo-500 {
+    background-color: rgb(253 183 0/var(--tw-bg-opacity));
+}
 .notion-collection-card{
     border-radius:8px;
 }
