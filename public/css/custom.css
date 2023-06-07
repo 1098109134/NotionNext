@@ -18,6 +18,9 @@
 .bg-indigo-500 {
     background-color: rgb(253 183 0/var(--tw-bg-opacity));
 }
+.hover\:bg-indigo-300:hover{
+    background-color: rgb(253 183 0/var(--tw-bg-opacity));
+}
 .notion-collection-card{
     border-radius:8px;
 }
