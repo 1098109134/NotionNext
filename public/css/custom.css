@@ -31,6 +31,10 @@
     box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 4px;
 }
 
+.notion-h1 {
+    border-bottom-width: 0px
+}
+
 .notion-collection-card{
     border-radius:8px;
 }
