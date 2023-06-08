@@ -21,6 +21,15 @@
 .hover\:bg-indigo-300:hover{
     background-color: rgb(253 183 0/var(--tw-bg-opacity));
 }
+.bg-indigo-600 {
+    background-color: rgb(255 183 0/var(--tw-bg-opacity));
+}
+.text-indigo-600 {
+    color: rgb(255 183 0/var(--tw-text-opacity));
+}
+.notion-table-of-contents-item {
+    color: rgb(204 150 0/var(--tw-text-opacity));
+}
 
 #blog-post-card{
     transition-property:all;
