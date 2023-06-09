@@ -18,6 +18,9 @@
 .hover\:border-indigo-500:hover {
     border-color: rgb(253 183 0/var(--tw-border-opacity));
 }
+.hover\:bg-indigo-400:hover {
+    background-color: rgb(255 183 0/var(--tw-bg-opacity));
+}
 .bg-indigo-500 {
     background-color: rgb(253 183 0/var(--tw-bg-opacity));
 }
@@ -36,11 +39,24 @@
 
 #blog-post-card{
     transition-property:all;
-    transition-duration: .25s;
-    box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 4px;
+    transition-duration: .18s;
 }
 #blog-post-card:hover{
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 4px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+@-webkit-keyframes bgscroll {
+	100% {background-position: -1920px -1470px;}
+}
+#wrapper{
+  width: 100%;
+	height: 100%;
+	background: url(mv-bg.png) repeat;
+	-webkit-animation: bgscroll 68s linear infinite;
+}
+
+.border {
+     border-width:0px; 
 }
 
 .notion-h1 {
