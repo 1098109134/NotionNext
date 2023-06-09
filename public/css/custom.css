@@ -15,6 +15,9 @@
 .hover\:text-indigo-600:hover {
     color: rgb(253 183 0/var(--tw-text-opacity));
 }
+.hover\:border-indigo-500:hover {
+    border-color: rgb(253 183 0/var(--tw-border-opacity));
+}
 .bg-indigo-500 {
     background-color: rgb(253 183 0/var(--tw-bg-opacity));
 }
