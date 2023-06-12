@@ -47,18 +47,6 @@
 box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
 
-/* 背景图 */
-@-webkit-keyframes bgscroll {
-	100% {background-position: -1920px -1470px;}
-}
-#wrapper{
- 	width: 100%;
-	height: 100%;
-	background: url(mv-bg.png) repeat;
-	-webkit-animation: bgscroll 68s linear infinite;
-	background-image: url('https://bu.dusays.com/2023/06/12/6486ea6262fdd.webp');
-}
-
 .border {
      border-width:0px; 
 }
